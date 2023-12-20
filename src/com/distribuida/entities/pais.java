@@ -7,42 +7,64 @@ public class pais {
 
 	}
 	private int idpais;
-	private String nompais;
-	private String descripais;
+	private String nombrepais;
+	private String descripcionpais;
 	private String idioma;
-	private String codigopais;
+	private String codigopostalpais;
+	
 	
 	public pais (){ }
-	
-	
+
+
 	public int getIdpais() {
 		return idpais;
 	}
+
+
 	public void setIdpais(int idpais) {
 		this.idpais = idpais;
 	}
-	public String getNompais() {
-		return nompais;
+
+
+	public String getNombrepais() {
+		return nombrepais;
 	}
-	public void setNompais(String nompais) {
-		this.nompais = nompais;
+
+
+	public void setNombrepais(String nombrepais) {
+		this.nombrepais = nombrepais;
 	}
-	public String getDescripais() {
-		return descripais;
+
+
+	public String getDescripcionpais() {
+		return descripcionpais;
 	}
-	public void setDescripais(String descripais) {
-		this.descripais = descripais;
+
+
+	public void setDescripcionpais(String descripcionpais) {
+		this.descripcionpais = descripcionpais;
 	}
+
+
 	public String getIdioma() {
 		return idioma;
 	}
+
+
 	public void setIdioma(String idioma) {
 		this.idioma = idioma;
 	}
-	public String getCodigopais() {
-		return codigopais;
+
+
+	public String getCodigopostalpais() {
+		return codigopostalpais;
 	}
-	public void setCodigopais(String codigopais) {
-		this.codigopais = codigopais;
+
+
+	public void setCodigopostalpais(String codigopostalpais) {
+		this.codigopostalpais = codigopostalpais;
 	}
+	
+	
+
 }

@@ -5,8 +5,7 @@ public class DetalleFactura {
 	private int idDetFac;
 	private String cantidad;
 	private double subtotal;
-	private Factura factura;
-	private Libros libro;
+
 	
 	public DetalleFactura() {}
 

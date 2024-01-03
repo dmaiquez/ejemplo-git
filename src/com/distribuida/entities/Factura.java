@@ -1,6 +1,7 @@
 package com.distribuida.entities;
 
 public class Factura {
+
 	
 	//Atributos
 	private int id_factura; 
@@ -69,5 +70,4 @@ public class Factura {
 	} 
 	
 	
-
 }

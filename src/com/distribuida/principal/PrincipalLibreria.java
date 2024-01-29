@@ -7,7 +7,10 @@ public class PrincipalLibreria {
 
 		
 			System.out.println("AQUI VIENEN TODOS LOS MODULOS DEL PROYECTO");		
-		
+			System.out.println("AQUI VIENEN TODOS LOS MODULOS DEL PROYECTO");
+			System.out.println("AQUI VIENEN TODOS LOS MODULOS DEL PROYECTO");
+			System.out.println("AQUI VIENEN TODOS LOS MODULOS DEL PROYECTO");
+			System.out.println("AQUI VIENEN TODOS LOS MODULOS DEL PROYECTO");
 	}
 
 }
